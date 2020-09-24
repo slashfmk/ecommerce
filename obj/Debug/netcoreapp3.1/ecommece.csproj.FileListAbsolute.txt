@@ -1,0 +1,12 @@
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/bin/Debug/netcoreapp3.1/ecommece.deps.json
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/bin/Debug/netcoreapp3.1/ecommece.runtimeconfig.json
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/bin/Debug/netcoreapp3.1/ecommece.runtimeconfig.dev.json
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/bin/Debug/netcoreapp3.1/ecommece.dll
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/bin/Debug/netcoreapp3.1/ecommece.pdb
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/obj/Debug/netcoreapp3.1/ecommece.csprojAssemblyReference.cache
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/obj/Debug/netcoreapp3.1/ecommece.AssemblyInfoInputs.cache
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/obj/Debug/netcoreapp3.1/ecommece.AssemblyInfo.cs
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/obj/Debug/netcoreapp3.1/ecommece.csproj.CoreCompileInputs.cache
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/obj/Debug/netcoreapp3.1/ecommece.dll
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/obj/Debug/netcoreapp3.1/ecommece.pdb
+/Users/yannickfumukani/Documents/sdev/C#/ecommece/obj/Debug/netcoreapp3.1/ecommece.genruntimeconfig.cache

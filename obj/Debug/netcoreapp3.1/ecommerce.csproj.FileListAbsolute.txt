@@ -1,0 +1,12 @@
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/bin/Debug/netcoreapp3.1/ecommerce.deps.json
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/bin/Debug/netcoreapp3.1/ecommerce.runtimeconfig.json
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/bin/Debug/netcoreapp3.1/ecommerce.runtimeconfig.dev.json
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/bin/Debug/netcoreapp3.1/ecommerce.dll
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/bin/Debug/netcoreapp3.1/ecommerce.pdb
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/Debug/netcoreapp3.1/ecommerce.csprojAssemblyReference.cache
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/Debug/netcoreapp3.1/ecommerce.AssemblyInfoInputs.cache
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/Debug/netcoreapp3.1/ecommerce.AssemblyInfo.cs
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/Debug/netcoreapp3.1/ecommerce.csproj.CoreCompileInputs.cache
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/Debug/netcoreapp3.1/ecommerce.dll
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/Debug/netcoreapp3.1/ecommerce.pdb
+/Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/Debug/netcoreapp3.1/ecommerce.genruntimeconfig.cache

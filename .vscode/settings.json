@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "'Code Source Pro', Menlo, Monaco, 'Courier New', monospace",
+    "editor.formatOnSave": true,
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 13
+}
