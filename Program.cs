@@ -33,9 +33,8 @@ namespace ecommerce
             cart.AddItem(store.GetItem("Banana"), 8);
             cart.AddItem(store.GetItem("shawarma"), 5);
             
-           // cart.Checkout();
-            
-            store.GetItemsList();
+           // cart.Checkout()
+           store.GetItemsList();
 
             Console.WriteLine("++++++++");
             
