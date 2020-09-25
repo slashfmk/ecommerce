@@ -24,6 +24,7 @@ namespace ecommerce
             
             Store store = new Store("Walmart", "Foods, pharmacy and other stuff");
             
+            // Adding product in the store
             store.AddItem(new Item("Banana", 45.12));
             store.AddItem(new Item("Peanut Butter", 8.56));
             store.AddItem(new Item("shawarma", 15.00));
