@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fXncKSxk1O69kkxKbs5Zk4i8a+zTkzqhaqa8WViej3IsUNf8i+YEz2KpXamS2pvppi6Nv6CO5Q91/JUP9sQt5A==",
+  "dgSpecHash": "VIM3lPpmVR/nwl/ko4eWV5eAeI09PIZ0PMhfYLe6kHpF5HmTfkIBMWqB2WuktDMUpepthKnHdGsfGYuYNhOnMA==",
   "success": true,
-  "projectFilePath": "/Users/yannickfumukani/Documents/sdev/C#/ecommerce/ecommerce.csproj",
+  "projectFilePath": "E:\\projet\\Apps\\Csharp\\ecommerce\\ecommerce.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

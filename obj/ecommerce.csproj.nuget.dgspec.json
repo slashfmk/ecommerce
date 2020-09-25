@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yannickfumukani/Documents/sdev/C#/ecommerce/ecommerce.csproj": {}
+    "E:\\projet\\Apps\\Csharp\\ecommerce\\ecommerce.csproj": {}
   },
   "projects": {
-    "/Users/yannickfumukani/Documents/sdev/C#/ecommerce/ecommerce.csproj": {
+    "E:\\projet\\Apps\\Csharp\\ecommerce\\ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yannickfumukani/Documents/sdev/C#/ecommerce/ecommerce.csproj",
+        "projectUniqueName": "E:\\projet\\Apps\\Csharp\\ecommerce\\ecommerce.csproj",
         "projectName": "ecommerce",
-        "projectPath": "/Users/yannickfumukani/Documents/sdev/C#/ecommerce/ecommerce.csproj",
-        "packagesPath": "/Users/yannickfumukani/.nuget/packages/",
-        "outputPath": "/Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/",
+        "projectPath": "E:\\projet\\Apps\\Csharp\\ecommerce\\ecommerce.csproj",
+        "packagesPath": "C:\\Users\\slash\\.nuget\\packages\\",
+        "outputPath": "E:\\projet\\Apps\\Csharp\\ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/yannickfumukani/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\slash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
