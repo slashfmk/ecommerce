@@ -19,7 +19,7 @@ namespace ecommerce
             Console.WriteLine(check.IssueDateTime);
             Console.WriteLine(check.ExpirationDate());
             
-           
+           // Creating a new Man
             Human man = new Man("Yannick", "Fumukani", 1987);
             
             Store store = new Store("Walmart", "Foods, pharmacy and other stuff");
