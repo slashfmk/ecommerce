@@ -28,6 +28,7 @@ namespace ecommerce
             store.AddItem(new Item("Banana", 45.12));
             store.AddItem(new Item("Peanut Butter", 8.56));
             store.AddItem(new Item("shawarma", 15.00));
+            store.AddItem(new Item("Orange", 1.75));
             
             Cart cart = new Cart();
             cart.AddItem(store.GetItem("Banana"), 8);
