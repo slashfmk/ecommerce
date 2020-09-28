@@ -10,3 +10,16 @@
 /Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/Debug/netcoreapp3.1/ecommerce.dll
 /Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/Debug/netcoreapp3.1/ecommerce.pdb
 /Users/yannickfumukani/Documents/sdev/C#/ecommerce/obj/Debug/netcoreapp3.1/ecommerce.genruntimeconfig.cache
+E:\projet\Apps\Csharp\ecommerce\bin\Debug\netcoreapp3.1\ecommerce.exe
+E:\projet\Apps\Csharp\ecommerce\bin\Debug\netcoreapp3.1\ecommerce.deps.json
+E:\projet\Apps\Csharp\ecommerce\bin\Debug\netcoreapp3.1\ecommerce.runtimeconfig.json
+E:\projet\Apps\Csharp\ecommerce\bin\Debug\netcoreapp3.1\ecommerce.runtimeconfig.dev.json
+E:\projet\Apps\Csharp\ecommerce\bin\Debug\netcoreapp3.1\ecommerce.dll
+E:\projet\Apps\Csharp\ecommerce\bin\Debug\netcoreapp3.1\ecommerce.pdb
+E:\projet\Apps\Csharp\ecommerce\obj\Debug\netcoreapp3.1\ecommerce.csprojAssemblyReference.cache
+E:\projet\Apps\Csharp\ecommerce\obj\Debug\netcoreapp3.1\ecommerce.AssemblyInfoInputs.cache
+E:\projet\Apps\Csharp\ecommerce\obj\Debug\netcoreapp3.1\ecommerce.AssemblyInfo.cs
+E:\projet\Apps\Csharp\ecommerce\obj\Debug\netcoreapp3.1\ecommerce.csproj.CoreCompileInputs.cache
+E:\projet\Apps\Csharp\ecommerce\obj\Debug\netcoreapp3.1\ecommerce.dll
+E:\projet\Apps\Csharp\ecommerce\obj\Debug\netcoreapp3.1\ecommerce.pdb
+E:\projet\Apps\Csharp\ecommerce\obj\Debug\netcoreapp3.1\ecommerce.genruntimeconfig.cache

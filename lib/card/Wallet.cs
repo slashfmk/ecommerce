@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 namespace ecommerce.lib.card
 {
+    // Wallet keeps all our credit cards
     public class Wallet
     {
 
@@ -43,17 +44,17 @@ namespace ecommerce.lib.card
                 num++;
             }
         }
-        
+
 
         private void ActionChoice(char userAction, double amount)
         {
             bool found = false;
             int chosenCard;
-            
+
             Console.WriteLine($"{this._firstName}'s available _cards list");
             Console.WriteLine($"***************************************");
             ShowAvailableCards();
-            
+
 
             if (this._cards.Count == 1)
             {
@@ -61,20 +62,21 @@ namespace ecommerce.lib.card
                 {
                     _cards[0].Deposit(amount);
                 }
-                else if(userAction == 'P')
+                else if (userAction == 'P')
                 {
                     _cards[0].Pay(amount);
                 }
-            } else if (_cards.Count <= 0)
+            }
+            else if (_cards.Count <= 0)
             {
                 Console.WriteLine("You don't have a credit card yet!");
             }
             else
             {
                 Console.WriteLine("Please enter the id number of the card you want to use");
-            
+
                 chosenCard = Convert.ToInt32(Console.ReadLine());
-            
+
                 foreach (CreditCard cd in this._cards)
                 {
                     if (chosenCard == cd.CardId)
@@ -83,7 +85,7 @@ namespace ecommerce.lib.card
                         {
                             cd.Deposit(amount);
                         }
-                        else if(userAction == 'P')
+                        else if (userAction == 'P')
                         {
                             cd.Pay(amount);
                         }
@@ -94,7 +96,7 @@ namespace ecommerce.lib.card
                         found = true;
                         break;
                     }
-                
+
                 }
 
                 if (!found)
@@ -109,7 +111,7 @@ namespace ecommerce.lib.card
         {
             try
             {
-               // Console.WriteLine("How much money you wanna spend?");
+                // Console.WriteLine("How much money you wanna spend?");
                 amount = Convert.ToDouble(Console.ReadLine());
                 ActionChoice('P', amount);
             }
@@ -117,9 +119,9 @@ namespace ecommerce.lib.card
             {
                 Console.WriteLine($"{e.Message}");
             }
-           
+
         }
-        
+
         public void LoadMoney()
         {
             try
@@ -132,8 +134,8 @@ namespace ecommerce.lib.card
             {
                 Console.WriteLine($"{e.Message}");
             }
-            
+
         }
-        
+
     }
 }

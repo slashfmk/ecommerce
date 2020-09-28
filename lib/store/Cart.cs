@@ -9,6 +9,7 @@ namespace ecommerce.lib.store
 
         private List<ItemAndQte> _itemsList;
 
+        // struct for Item and Quantity
         private struct ItemAndQte
         {
             public  Item Item { get; set; }
