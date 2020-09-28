@@ -49,6 +49,7 @@ namespace ecommerce.lib.people
 
         public void Purchase(double amount)
         {
+            // set amount for purchase
             _wallet.Purchase(amount);
         }
 
